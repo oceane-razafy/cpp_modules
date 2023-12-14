@@ -10,7 +10,7 @@ These C++ modules are part of the curriculum at 42 school and aim to cover vario
 
 ## Project Description
 
-| Module Name | Theme |
+| Module | Theme |
 |-------------|-------|
 | cpp00       | Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff |
 | cpp01       | Memory allocation, pointers to members, references, switch statement |
