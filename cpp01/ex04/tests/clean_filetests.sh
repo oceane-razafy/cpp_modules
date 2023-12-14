@@ -1,0 +1,1 @@
+find . -name "*replace*" | xargs rm -f
