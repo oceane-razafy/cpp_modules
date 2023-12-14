@@ -40,3 +40,5 @@ To run an exercise:
 1. Navigate to the exercise folder (e.g., `cpp00/ex00`).
 2. Run `make` to generate the executable.
 3. Execute the generated executable to observe the exercise output or behavior.
+
+Each module folder (e.g., `cpp00`) contains a subject PDF file (e.g., `cpp00.pdf`) that provides detailed explanations, requirements, and guidelines for each exercise within that module.
